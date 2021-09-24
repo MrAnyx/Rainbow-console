@@ -1,4 +1,4 @@
-# Rainbox-console
+# Rainbow-console
 
 > No dependencies, only PHP, only **1.1 Kb** and very easy to use 🚀
 
