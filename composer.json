@@ -1,0 +1,16 @@
+{
+    "name": "mranyx/rainbow-console",
+    "version": "1.0",
+    "description": "A very lightweight php library to color text in the console",
+    "autoload": {
+        "psr-4": {
+            "RainbowColor\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    }
+}
