@@ -6,7 +6,7 @@
 
 - PHP >= 7.1.0
 
-Hey, that's all you need. Impressive isn't it ?
+Yeah, that's all you need. Impressive isn't it ?
 
 ## Installation
 
@@ -28,7 +28,7 @@ And here is the result
 
 ![Result image on rainbow-console](./assets/example.png)
 
-> For more details about the result, you can check out the `example/main.php` file and run it.
+> For more details about the result, you can check the `example/main.php` file and run it.
 
 ## Parameters
 
