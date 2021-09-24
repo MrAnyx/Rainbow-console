@@ -1,7 +1,27 @@
 {
     "name": "mranyx/rainbow-console",
     "version": "1.0",
+    "type": "library",
+    "keywords": ["PHP", "Console", "Colors", "Terminal", "Cli", "Lib"],
+    "homepage": "https://github.com/MrAnyx/Rainbox-console",
+    "readme": "https://github.com/MrAnyx/Rainbox-console/blob/master/README.md",
+    "license": "GPL-3.0-or-later",
+    "support": {
+        "email": "robin@codeon.fr",
+        "issues": "https://github.com/MrAnyx/Rainbox-console/issues",
+        "source": "https://github.com/MrAnyx/Rainbox-console",
+        "docs": "https://github.com/MrAnyx/Rainbox-console/blob/master/README.md"
+    },
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/MrAnyx/Rainbox-console"
+    }],
     "description": "A very lightweight php library to color text in the console",
+    "authors": [{
+        "email": "robin@codeon.fr",
+        "name": "Robin B",
+        "role": "Developer"
+    }],
     "autoload": {
         "psr-4": {
             "RainbowColor\\": "src/"
